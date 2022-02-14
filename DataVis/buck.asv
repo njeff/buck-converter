@@ -1,0 +1,40 @@
+s = tf('s');
+% opamp model
+scale = 1;
+wp = 2*pi*10/scale;
+A = 1e3*scale;
+H = A/(1+s/wp);
+%H = A;
+
+% loop gain, without feedback factor
+Vin = 10;
+L = 10e-6;
+C = 100e-6;
+R = 1e5;
+Q = R*sqrt(C/L);
+wn = 1/sqrt(L*C);
+Gvd = tf([Vin], [1/(wn^2), 1/(Q*wn), 1]);
+
+%lag compensator
+zero = 2*pi*(wn*0.9);
+pole = 2*pi*(10000);
+G = (1+s/zero)^2/(1+s/pole);
+
+VM = Vin;
+forward = H*Gvd/VM;
+f = logspace(1,5,100);
+v = bode(forward, 2*pi*f);
+%loglog(f, v(:,:));
+grid on;
+xlabel('Freq Hz');
+ylabel('Fwd');
+
+%rlocus(forward, [0.5, 1]);
+hold on;
+bode(forward)
+bode(forward*G)
+grid on;
+%%
+figure;
+fb = feedback(forward, tf([1], [2]));
+bode(fb);
