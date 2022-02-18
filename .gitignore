@@ -8,3 +8,5 @@
 # Netlist
 *.net
 
+# KiCAD
+buck-pcb/buck-pcb-backups/*
