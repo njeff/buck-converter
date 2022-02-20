@@ -6,7 +6,7 @@ wp = 2*pi*(GBW/A);
 H = A/(1+s/wp);
 %H = A;
 
-VM = 3;
+VM = 10;
 % loop gain, without feedback factor
 Vin = 10;
 L = 10e-6;
@@ -43,12 +43,32 @@ figure;
 fb = feedback(forward, tf([1], [2]));
 bode(fb);
 %%
-R1 = 31e3;
-R2 = 5e3;
-R3 = 5e3;
-C1 = 150e-12;
-C2 = 10e-9;
-C3 = 3e-9;
+% crossover freq
+wcross = wn * 4;
+fprintf("f_cross: %f, f_filter: %f\n", wcross/(2*pi), wn/(2*pi));
+
+wz1 = wn*0.1; % set first zero
+%wz1 = 1/(R1C3)
+R1 = 27e3; % arbitrary
+C3 = 1/(R1*wz1); 
+
+wp1 = wcross; % set first pole
+R3 = 1/(C3*wp1);
+
+% set compensator gain
+H_compcross = 1/abs(evalfr(Gvd2,wcross)/VM)
+R2 = (R1*R3/(R1+R3))*H_compcross;
+
+% set second zero
+wz0 = wn*0.3;
+C2 = 1/(R2*wz0);
+
+% set second pole
+wp0 = wcross*10;
+C1 = 1/(R2*wp0);
+
+fprintf("R1: %f, R2: %d, R3: %d, \nC1: %d, C2: %d, C3: %d\n", R1, R2, R3, C1, C2, C3);
+
 beta = R1*R3*C1*s*(s+(C1+C2)/(C1*C2*R2))*(s+1/(R3*C3))/((R1+R3)*(s+1/(R2*C2))*(s+1/((R1+R3)*C3)));
 hold on;
 %bode(beta)

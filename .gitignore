@@ -10,3 +10,4 @@
 
 # KiCAD
 buck-pcb/buck-pcb-backups/*
+buck-pcb/fp-info-cache
