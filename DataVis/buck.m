@@ -17,8 +17,8 @@ wn = 1/sqrt(L*C);
 Gvd = tf([Vin], [1/(wn^2), 1/(Q*wn), 1]);
 
 % non-ideal LC
-RL = 1e-2;
-RC = 1e-2;
+RL = 2e-2;
+RC = 2e-2;
 Gvd2 = Vin*tf([C*RC, 1], [L*C*(R+RC)/R, L/R+RC*C+RL*C+RL*RC*C/R, 1+RL/R]);
 %bode(Gvd2);
 
@@ -38,11 +38,10 @@ title('Lossless vs Lossy');
 legend({'Lossless','Lossy'},'Location','southwest')
 %bode(Gvd)
 grid on;
+
 %%
-figure;
-fb = feedback(forward, tf([1], [2]));
-bode(fb);
-%%
+fprintf("\nCalculating Filter Component Values\n");
+fprintf("-----------------------------------\n");
 % crossover freq
 wcross = wn * 4;
 fprintf("f_cross: %f, f_filter: %f\n", wcross/(2*pi), wn/(2*pi));
@@ -80,8 +79,13 @@ grid on;
 title('Closed Loop vs 1/beta');
 legend({'Closed Loop Form','1/beta'},'Location','northwest')
 %%
-bode(Hcomp*Gvd/VM);
-%bode(Hcomp*Gvd2/VM);
-delay = tf(1,1,'InputDelay',3e-5/2);
-%bode(Hcomp*Gvd2*delay/VM,{1,100000});
+% delay
+hold on;
+%bode(Hcomp*Gvd/VM);
+bode(Hcomp*Gvd2/VM);
+% 400kHz equivalent since dual slope from the triangle
+delay = tf(1,1,'InputDelay',1/(400e3));
+bode(Hcomp*Gvd2*delay/VM,{1,200000});
 grid on;
+title('No delay vs w/delay');
+legend({'No delay','w/Delay'},'Location','northwest')
