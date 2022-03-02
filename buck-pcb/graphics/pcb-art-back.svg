@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50.0mm"
+   height="50.0mm"
+   viewBox="0 0 50.0 50.0"
+   version="1.1"
+   id="svg10269"
+   sodipodi:docname="pcb-art-back.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10271"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="5.1241863"
+     inkscape:cx="40.88454"
+     inkscape:cy="114.94508"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10352" />
+  <defs
+     id="defs10266" />
+  <g
+     inkscape:label="[fixed] BG"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="g10338">
+    <rect
+       x="0"
+       y="0"
+       width="50.0"
+       height="50.0"
+       style="fill:#FFFFFF;fill-opacity:1;stroke:none"
+       id="rect10336" />
+  </g>
+  <g
+     inkscape:label="Edge.Cuts"
+     inkscape:groupmode="layer"
+     id="g10340" />
+  <g
+     inkscape:label="B.Cu"
+     inkscape:groupmode="layer"
+     id="g10342" />
+  <g
+     inkscape:label="B.Mask"
+     inkscape:groupmode="layer"
+     id="g10344" />
+  <g
+     inkscape:label="B.SilkS"
+     inkscape:groupmode="layer"
+     id="g10346"
+     style="display:inline" />
+  <g
+     inkscape:label="F.Cu"
+     inkscape:groupmode="layer"
+     id="g10352"
+     style="display:inline">
+    <polygon
+       points="58.72,43.75 59.39,37 62.39,42.84 "
+       style="display:inline;fill:#573e16;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon30"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="43.81,39.79 46.55,38.92 46.33,40.84 "
+       style="display:inline;fill:#3f2a11;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon80"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="32.76,46.61 37,44.73 38.22,46.61 "
+       style="display:inline;fill:#3f2a11;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon108"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="30.72,41.31 30.37,38.51 30.44,38.5 30.44,38.48 33,40.38 "
+       style="display:inline;fill:#3f2a11;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon128"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="30.34,38.52 28.72,46.67 25.22,43.75 30.25,38.53 "
+       style="display:inline;fill:#553f16;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon152"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="39.22,44.73 43.81,39.8 48,48 "
+       style="display:inline;fill:#a9872e;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon70-8"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="39.66,50.39 48,48 42.89,55.67 "
+       style="display:inline;fill:#5c441a;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon72-7"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="39.22,44.73 48,48 38.22,46.61 "
+       style="display:inline;fill:#7f5f26;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon78-4"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="43.81,39.8 39.22,44.73 40.22,36.39 40.22,36.38 43.81,39.79 "
+       style="display:inline;fill:#795722;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon84-1"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="40.21,36.39 33,40.38 34.44,34.34 40.19,36.37 "
+       style="display:inline;fill:#a87e2c;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon98-8"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="37,44.73 33,40.38 37.47,43.51 "
+       style="display:inline;fill:#735823;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon112-9"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="32.76,46.61 33,40.38 37,44.73 "
+       style="display:inline;fill:#8a6728;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon114-0"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="33,40.38 30.44,38.48 30.48,38.3 34.44,34.34 "
+       style="display:inline;fill:#9d7c2d;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon124-4"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="32.76,46.61 32.44,55 31.55,48 30.72,41.31 33,40.38 "
+       style="display:inline;fill:#92742c;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon126-0"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="50.22,38.42 48,48 46.33,40.84 "
+       style="display:inline;fill:#624a1d;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon54-6"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="43.81,39.79 46.33,40.84 48,48 43.81,39.8 "
+       style="display:inline;fill:#715924;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon68-6"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="48,48 39.66,50.39 38.22,46.61 "
+       style="display:inline;fill:#a6812d;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon76-2"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="40.21,36.39 37.47,43.51 33,40.38 "
+       style="display:inline;fill:#876427;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon96-0"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="38.22,46.61 39.66,50.39 35.49,50.39 "
+       style="display:inline;fill:#9a742b;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon102-0"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="32.76,46.61 35.49,50.39 32.44,55 "
+       style="display:inline;fill:#7b5f26;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon120-6"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="39.66,50.39 42.89,55.67 35.49,50.39 "
+       style="display:inline;fill:#5f441a;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon86-9"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="42.89,55.67 32.44,55 35.49,50.39 "
+       style="display:inline;fill:#8b6a29;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon88-7"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="40.22,36.38 50.22,38.42 46.55,38.92 43.81,39.79 "
+       style="display:inline;fill:#5e5428;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon64-1"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="40.21,36.39 40.22,36.39 39.22,44.73 37.47,43.51 "
+       style="display:inline;fill:#664d1e;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon94-5"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="39.22,44.73 37,44.73 37.47,43.51 "
+       style="display:inline;fill:#372411;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon106-3"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="38.22,46.61 35.49,50.39 32.76,46.61 "
+       style="display:inline;fill:#856829;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon110-3"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="50.22,38.42 46.33,40.84 46.55,38.92 "
+       style="display:inline;fill:#715924;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon62-6"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="39.22,44.73 38.22,46.61 37,44.73 "
+       style="display:inline;fill:#573e16;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon104-8"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <path
+       id="polygon30-6-1"
+       style="display:inline;fill:#ffffff;fill-opacity:0.563422;stroke:#000000;stroke-width:0.1524;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 24.171875,14.507812 C 23.679688,15.741536 23.1875,16.97526 22.695312,18.208984 22.26731,17.423235 21.997511,16.518249 21.214667,15.999656 20.800229,15.632783 20.29762,14.86847 20.188977,15.837634 19.643149,16.996401 19.700355,18.316535 19.5,19.558984 c -0.272398,0.462341 -0.96481,0.705795 -1.393433,1.086721 -0.851521,0.616305 -1.77487,1.144437 -2.487426,1.930467 -0.927198,-0.329813 -2.11694,-0.656791 -2.417961,-1.712626 -0.457241,-0.871874 -0.163173,-1.889673 -0.246102,-2.834249 0.600945,-0.526003 1.204036,-1.04956 1.802734,-1.578125 -1.154502,0.287979 -2.405387,0.452338 -3.5,0.818359 -0.453813,0.895553 -0.993493,1.773981 -1.3964839,2.679688 0.1343199,0.962353 0.2144489,1.947856 0.3808599,2.896484 0.594842,0.707672 1.116976,1.54917 1.755859,2.175781 1.10612,0.08919 2.212239,0.178386 3.318359,0.267578 -0.529676,0.554592 -1.16997,1.167967 -1.628906,1.658204 0.337135,0.414068 0.20219,1.187303 0.358663,1.738822 -0.101082,0.430172 -1.353588,0.754279 -0.700853,1.163394 0.32635,0.449187 1.233667,0.727082 0.843689,1.387472 -0.189342,0.75499 -0.378166,1.510109 -0.567905,2.264999 0.721593,-0.448835 1.442684,-0.898476 2.164062,-1.347656 -0.03274,0.870435 -0.06399,1.740929 -0.09766,2.611328 2.558993,0.260198 5.118448,0.516077 7.677734,0.773437 1.573655,-2.001623 3.215664,-3.944615 4.957032,-5.802734 3.985807,-1.160049 8.002158,-2.217231 11.927734,-3.572266 -1.464451,-0.684524 -2.931143,-1.364255 -4.396484,-2.046874 0.51633,-1.074696 1.099978,-2.13616 1.576172,-3.21875 -0.126016,-1.162721 -0.248978,-2.325778 -0.376954,-3.488282 -0.987875,0.524776 -1.978041,1.04524 -2.966796,1.56836 0.191642,-0.703061 0.381193,-1.406694 0.574218,-2.109375 -1.601539,0.101922 -3.203129,0.203063 -4.804687,0.304687 0.161636,-0.485428 0.688308,-1.263697 0.618893,-1.563615 -1.558713,0.317667 -3.118397,0.630598 -4.677487,0.946428 -0.505956,-0.773375 -1.011009,-1.54734 -1.517578,-2.320313 -0.03581,0.09049 -0.07162,0.18099 -0.107422,0.271484 z" />
+  </g>
+  <g
+     inkscape:label="F.Mask"
+     inkscape:groupmode="layer"
+     id="g10350"
+     style="display:inline">
+    <polygon
+       points="48,48 39.22,44.73 43.81,39.8 "
+       style="display:inline;fill:#a9872e;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon70"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="42.89,55.67 39.66,50.39 48,48 "
+       style="display:inline;fill:#5c441a;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon72"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="38.22,46.61 39.22,44.73 48,48 "
+       style="display:inline;fill:#7f5f26;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon78"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="43.81,39.8 39.22,44.73 40.22,36.39 40.22,36.38 43.81,39.79 "
+       style="display:inline;fill:#795722;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon84"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="34.44,34.34 40.19,36.37 40.21,36.39 33,40.38 "
+       style="display:inline;fill:#a87e2c;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon98"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="37.47,43.51 37,44.73 33,40.38 "
+       style="display:inline;fill:#735823;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon112"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="37,44.73 32.76,46.61 33,40.38 "
+       style="display:inline;fill:#8a6728;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon114"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="30.48,38.3 34.44,34.34 33,40.38 30.44,38.48 "
+       style="display:inline;fill:#9d7c2d;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon124"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="32.76,46.61 32.44,55 31.55,48 30.72,41.31 33,40.38 "
+       style="display:inline;fill:#92742c;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon126"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="46.33,40.84 50.22,38.42 48,48 "
+       style="display:inline;fill:#624a1d;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon54"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="48,48 43.81,39.8 43.81,39.79 46.33,40.84 "
+       style="display:inline;fill:#715924;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon68"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="38.22,46.61 48,48 39.66,50.39 "
+       style="display:inline;fill:#a6812d;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon76"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="33,40.38 40.21,36.39 37.47,43.51 "
+       style="display:inline;fill:#876427;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon96"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="35.49,50.39 38.22,46.61 39.66,50.39 "
+       style="display:inline;fill:#9a742b;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon102"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="32.44,55 32.76,46.61 35.49,50.39 "
+       style="display:inline;fill:#7b5f26;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon120"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="35.49,50.39 39.66,50.39 42.89,55.67 "
+       style="display:inline;fill:#5f441a;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon86"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="35.49,50.39 42.89,55.67 32.44,55 "
+       style="display:inline;fill:#8b6a29;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon88"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="46.55,38.92 43.81,39.79 40.22,36.38 50.22,38.42 "
+       style="display:inline;fill:#5e5428;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon64"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="39.22,44.73 37.47,43.51 40.21,36.39 40.22,36.39 "
+       style="display:inline;fill:#664d1e;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon94"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="37.47,43.51 39.22,44.73 37,44.73 "
+       style="display:inline;fill:#372411;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon106"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="32.76,46.61 38.22,46.61 35.49,50.39 "
+       style="display:inline;fill:#856829;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon110"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="46.55,38.92 50.22,38.42 46.33,40.84 "
+       style="display:inline;fill:#715924;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon62"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="37,44.73 39.22,44.73 38.22,46.61 "
+       style="display:inline;fill:#573e16;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon104"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="40.22,36.39 40.21,36.39 40.22,36.38 "
+       style="display:inline;fill:#5e5428;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon92-0"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="30.25,38.53 30.1,38.56 30.36,38.42 "
+       style="display:inline;fill:#5c5044;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon150-6"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="50.22,38.42 55.78,30.95 59.39,37 "
+       style="display:inline;fill:#63593f;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon36"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="40.22,36.38 53.33,26.28 55.78,30.95 "
+       style="display:inline;fill:#635942;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon44"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="40.22,36.38 55.78,30.95 50.22,38.42 "
+       style="display:inline;fill:#645741;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon46"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="36.44,19.61 36.44,18.5 48,15.17 53.33,26.28 "
+       style="display:inline;fill:#564838;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon48"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="36.44,26.28 53.33,26.28 40.22,36.38 "
+       style="display:inline;fill:#72634d;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon50"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="36.44,19.61 53.33,26.28 36.44,26.28 "
+       style="display:inline;fill:#7d6f54;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon52"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="37.78,8.17 44.44,8.17 48,15.17 "
+       style="display:inline;fill:#594e33;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon66"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="37.78,8.17 48,15.17 36.44,18.5 "
+       style="display:inline;fill:#8e8268;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon74"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="39.55,3.61 44.44,8.17 37.78,8.17 "
+       style="display:inline;fill:#665942;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon82"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="40.21,36.39 40.22,36.38 40.22,36.39 "
+       style="display:inline;fill:#5e5428;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon92"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="30.48,38.3 32.44,28.61 34.44,34.34 "
+       style="display:inline;fill:#594f36;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon122"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="30.4,38.38 27.11,29.78 32.44,28.61 30.48,38.3 "
+       style="display:inline;fill:#554c3b;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon130"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="21.33,30.95 24.43,28 32.44,28.61 27.11,29.78 "
+       style="display:inline;fill:#554c3b;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon140"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="30.1,38.56 21.33,40.06 27.11,29.78 30.4,38.38 30.36,38.42 "
+       style="display:inline;fill:#5c5044;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon148"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="30.1,38.56 30.36,38.42 30.25,38.53 "
+       style="display:inline;fill:#5c5044;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon150"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="21.33,30.95 27.11,29.78 21.33,40.06 "
+       style="display:inline;fill:#49422d;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon160"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="7.55,38.95 21.33,30.95 21.33,40.06 "
+       style="display:inline;fill:#4e4333;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon164"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="15.89,28.95 21.33,30.95 7.55,38.95 "
+       style="display:inline;fill:#544f37;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon166"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="1.33,30.95 15.89,28.95 7.55,38.95 "
+       style="display:inline;fill:#71684d;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon168"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="5.22,10.5 15.89,8.17 10.55,12.84 "
+       style="display:inline;fill:#504733;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon170"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="12.44,26.28 15.89,28.95 1.33,30.95 "
+       style="display:inline;fill:#58513d;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon172"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="1.33,30.95 10.55,21.61 12.44,26.28 "
+       style="display:inline;fill:#605544;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon174"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="5.22,10.5 10.55,12.84 10.55,21.61 "
+       style="display:inline;fill:#5b533d;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon176"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="0,20.28 5.22,10.5 10.55,21.61 "
+       style="display:inline;fill:#847355;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon178"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="0,20.28 10.55,21.61 1.33,30.95 "
+       style="display:inline;fill:#7c694d;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon180"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="40.21,36.39 40.22,36.38 40.22,36.39 "
+       style="display:inline;fill:#5e5428;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon92-0-7"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="30.1,38.56 30.36,38.42 30.25,38.53 "
+       style="display:inline;fill:#5c5044;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon150-6-2"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+  </g>
+  <g
+     inkscape:label="F.SilkS"
+     inkscape:groupmode="layer"
+     id="g10348"
+     style="display:inline">
+    <polygon
+       points="99.72,48 96.89,36.38 112.72,43.75 "
+       style="display:inline;fill:#bbb487;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon2"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="103.05,24 90.09,17.81 101.72,11.67 "
+       style="display:inline;fill:#ede0b0;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon4"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="96.89,36.38 85.05,36.38 103.05,24 "
+       style="display:inline;fill:#b9ad86;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon6"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="85.05,36.38 90.09,17.81 103.05,24 "
+       style="display:inline;fill:#c5b68f;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon8"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="96.89,36.38 99.72,48 59.39,37 85.05,36.38 "
+       style="display:inline;fill:#c3b994;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon10"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="68.89,56.84 62.39,42.84 99.72,48 "
+       style="display:inline;fill:#e9ddb0;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon12"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="62.39,42.84 59.39,37 99.72,48 "
+       style="display:inline;fill:#e6daaf;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon14"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="92.39,9.34 90.09,17.81 85.05,36.38 55.78,30.95 "
+       style="display:inline;fill:#b4a981;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon16"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="55.78,30.95 74.08,10.5 92.39,9.34 "
+       style="display:inline;fill:#e7d9ae;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon18"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="59.39,37 55.78,30.95 85.05,36.38 "
+       style="display:inline;fill:#c5b88a;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon20"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="74.08,10.5 59.39,8.17 76.72,4.67 "
+       style="display:inline;fill:#c2b78d;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon22"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="55.78,30.95 59.39,8.17 74.08,10.5 "
+       style="display:inline;fill:#b9ad86;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon24"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="62.39,42.84 68.89,56.84 48,48 58.72,43.75 "
+       style="display:inline;fill:#f2e3b0;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon26"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="59.39,67.34 48,48 68.89,56.84 "
+       style="display:inline;fill:#b9ac83;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon28"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="59.39,8.17 48,15.17 54.05,0 "
+       style="display:inline;fill:#ac9f78;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon32"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="59.39,8.17 55.78,30.95 53.33,26.28 48,15.17 "
+       style="display:inline;fill:#ede0b2;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon34"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="59.39,67.34 50.22,78.67 48,48 "
+       style="display:inline;fill:#ac9d79;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon40"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="48,48 50.22,38.42 58.72,43.75 "
+       style="display:inline;fill:#c6ba95;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon42"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="50.22,78.67 42.89,55.67 48,48 "
+       style="display:inline;fill:#efe2b2;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon56"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="50.22,78.67 32.44,55 42.89,55.67 "
+       style="display:inline;fill:#e1d3ab;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon58"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="50.22,78.67 22.05,75.84 32.44,55 "
+       style="display:inline;fill:#f2e3b0;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon60"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="36.44,26.28 40.22,36.38 40.19,36.37 32.44,28.61 "
+       style="display:inline;fill:#eaddb2;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon90"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="32.44,28.61 24.43,28 36.44,19.61 "
+       style="display:inline;fill:#f4eab8;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon118"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="22.44,65.42 16.89,61 32.44,55 "
+       style="display:inline;fill:#f6e5b7;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon138"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="16.89,61 12.44,56.84 32.44,55 "
+       style="display:inline;fill:#e7daaa;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon142"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="32.44,55 15.89,53.84 14.9,46.67 15.02,46.67 "
+       style="display:inline;fill:#ede4af;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon146"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="14.89,46.61 21.33,40.06 30.1,38.56 "
+       style="display:inline;fill:#ac9d79;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon156"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="28.72,46.67 15.02,46.67 14.89,46.61 25.22,43.75 "
+       style="display:inline;fill:#e7d4a0;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon158"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="14.55,70.34 16.89,61 22.44,65.42 "
+       style="display:inline;fill:#ffecba;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon162"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="50.22,38.42 59.39,37 58.72,43.75 "
+       style="display:inline;fill:#e7cea2;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon38"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="15.02,46.67 28.72,46.67 32.44,55 "
+       style="display:inline;fill:#e6deaf;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon134"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="22.44,65.42 32.44,55 22.05,75.84 "
+       style="display:inline;fill:#dcd0a0;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon136"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="15.89,53.84 32.44,55 12.44,56.84 "
+       style="display:inline;fill:#ece1b0;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon144"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="14.89,46.61 30.1,38.56 30.25,38.53 25.22,43.75 "
+       style="display:inline;fill:#f9e7ad;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon154"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="28.72,46.67 30.34,38.52 30.37,38.51 30.72,41.31 31.55,48 32.44,55 "
+       style="display:inline;fill:#e9d49f;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon132"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="34.44,34.34 32.44,28.61 40.19,36.37 "
+       style="display:inline;fill:#ddc89e;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon100"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+    <polygon
+       points="32.44,28.61 36.44,19.61 36.44,26.28 "
+       style="display:inline;fill:#eaddb2;stroke:#ffffff;stroke-width:0.576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:bevel"
+       id="polygon116"
+       transform="matrix(0.26458333,0,0,0.26458333,10.011795,14.563642)" />
+  </g>
+</svg>
